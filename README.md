@@ -12,7 +12,6 @@ Ubuntu 18.04 with ROS Melodic using [Terminator](https://gnome-terminator.org/) 
 ###### Create a ROS workspace
 
 ```
-cd ~
 mkdir -p ~/<WORKSPACE_NAME>/src
 cd ~/<WORKSPACE_NAME>/src
 catkin_init_workspace
