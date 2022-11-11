@@ -27,6 +27,15 @@ git clone https://github.com/simmubhangu/pid_tune.git
 
 ```
 
+###### Additional to do (make content in the parent directory and rename)
+
+```
+cd additional_package_for_vd/
+mv gazebo_ros_link_attacher/* .
+rmdir gazebo_ros_link_attacher/
+mv additional_package_for_vd/ gazebo_ros_link_attacher
+```
+
 ###### Build the Packages
 
 ```
