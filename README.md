@@ -3,7 +3,7 @@
 </p>
 
 ## Goal 
-Deliver a 
+Deploy a drone in a simulator that delivers and returns packages in a cityscape while implementing concepts in control systems, image processing, path planning and scheduling.
 
 ## Setup 
 Ubuntu 18.04 with ROS Melodic using [Terminator](https://gnome-terminator.org/) as shell
