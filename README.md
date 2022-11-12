@@ -33,7 +33,8 @@ git clone https://github.com/simmubhangu/pid_tune.git
 cd additional_package_for_vd/
 mv gazebo_ros_link_attacher/* .
 rmdir gazebo_ros_link_attacher/
-mv additional_package_for_vd/ gazebo_ros_link_attacher
+cd ..
+mv additional_package_for_vd gazebo_ros_link_attacher
 ```
 
 ###### Build the Packages
