@@ -8,6 +8,15 @@ Deploy a drone in a simulator that delivers and returns packages in a cityscape 
 ## Setup 
 Ubuntu 18.04 with ROS Melodic using [Terminator](https://gnome-terminator.org/) as shell
 
+## Requirements
+* Ros
+* Gazebo
+* Python3
+* pyzbar
+* rospkg
+* tkinter
+* plotjuggler
+
 ## Installation
 ###### Create a ROS workspace
 
