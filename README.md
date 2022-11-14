@@ -1,5 +1,6 @@
+# Vitarana Drone
 <p align="center">
-  <img src="https://github.com/MarcoMustacchi/e-yantra/blob/main/VitaranaDrone.jpg" width="1440">
+  <img src="https://github.com/MarcoMustacchi/e-yantra/blob/main/VitaranaDrone.png" width="1440">
 </p>
 
 ## Goal 
