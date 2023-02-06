@@ -51,7 +51,7 @@ mv additional_package_for_vd gazebo_ros_link_attacher
 
 ```
 cd ~/<WORKSPACE_NAME>/
-catkin_make 
+catkin build 
 ```
 
 ## Preliminary Step
